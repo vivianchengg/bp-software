@@ -15,6 +15,7 @@ A capstone project to provide general practitioners (GPs) with **secure and conv
 - ➕➖♻️ Add, delete, and reschedule appointments
 
 ***Figma Mockups Sample***
+
 <img width="648" alt="Screenshot 2025-04-12 at 04 52 37" src="https://github.com/user-attachments/assets/061b1fc6-c52f-4106-88b8-9581ba564669" />
 
 ---
