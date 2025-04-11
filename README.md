@@ -1,6 +1,6 @@
 # 🏥 GP Appointment Management Web App
 
-To provide general practitioners (GPs) with **secure and convenient web-based access** to appointment schedules from the Best Practice (BP) Medical Software system.
+A capstone project to provide general practitioners (GPs) with **secure and convenient web-based access** to appointment schedules from the Best Practice (BP) Medical Software system.
 
 ---
 
@@ -13,6 +13,18 @@ To provide general practitioners (GPs) with **secure and convenient web-based ac
 - 📊 Appointment statistics (e.g., number of appointments, expected workload)
 - 📝 Free-text note appointments
 - ➕➖♻️ Add, delete, and reschedule appointments
+
+---
+## 👩‍💻 My Responsibilities
+
+As a frontend and setup lead, my technical contributions included:
+
+- 🚀 Project environment setup (React.js + TypeScript)
+- 🎨 Building responsive frontend UI using MUI
+- 🐳 Dockerizing the full application
+- 🔁 Assisting with backend API integration and testing (Python + Flask)
+
+> *Note: I was not responsible for database management.*
 
 ---
 
