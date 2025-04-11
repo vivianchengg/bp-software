@@ -28,7 +28,7 @@ As a frontend and setup lead, my technical contributions included:
 
 ---
 
-## Get Started (For Devs)
+## 🚀 Get Started (For Devs)
 
 - frontend port: 3000  
 - backend port: 5555
