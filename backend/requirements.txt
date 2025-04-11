@@ -1,0 +1,15 @@
+Flask-SQLAlchemy
+pyodbc
+Flask
+flask-cors
+Flask_Mail
+PyJWT
+pytest
+requests
+flask_restx
+pymysql
+cryptography
+pytest
+python-dotenv
+pytest-order
+pymongo
