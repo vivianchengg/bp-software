@@ -26,7 +26,7 @@ As a frontend and setup lead, my technical contributions included:
 - 🚀 Project environment setup (React.js + TypeScript)
 - 🎨 Building responsive frontend UI using MUI
 - 🐳 Dockerizing the full application
-- 🔁 Assisting with backend API integration and testing (Python + Flask)
+- 🔁 Assisting with backend API integration (Python + Flask + Swagger)
 
 > *Note: I was not responsible for database management.*
 
